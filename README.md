@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey, I'm Robert 👋
 
-<!--
-**rbaran17/rbaran17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product manager who builds. I take AI ideas from "what if" to a working prototype, because the fastest way to learn what's worth shipping is to make it.
 
-Here are some ideas to get you started:
+Chicago for 25 years, Brooklyn now.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building
+
+- **[Inventory Checker Agent](https://github.com/rbaran17/Inventory-Checker-Agent)**: a vision agent that counts and verifies physical items from a phone camera. No app install.
+- **[Ledgerglass](https://github.com/rbaran17/Ledgerglass-OpenWorkbookLLM)**: an embeddable spreadsheet for the browser that plugs into any LLM over MCP.
+
+### How I work
+
+- Start with the user's real problem, not the tech
+- Prototype early, then let evidence decide
+- Write it down: specs, evals, and honest scope notes
+
+### Currently exploring
+
+Agent frameworks, MCP, and how to evaluate AI features before they reach users.
+
+### Off the clock
+
+Pickleball, video games, and hunting down good food around NYC.
