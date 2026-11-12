@@ -6,6 +6,7 @@ Chicago for 25 years, Brooklyn now.
 
 ### What I'm building
 
+- **[Overtone](https://github.com/rbaran17/overtone-notebook-agent)**: a notebook agent that turns your documents into cited answers and podcast-style audio overviews. Runs headless or with a web UI, built on Microsoft Agent Framework.
 - **[Inventory Checker Agent](https://github.com/rbaran17/Inventory-Checker-Agent)**: a vision agent that counts and verifies physical items from a phone camera. No app install.
 - **[Ledgerglass](https://github.com/rbaran17/Ledgerglass-OpenWorkbookLLM)**: an embeddable spreadsheet for the browser that plugs into any LLM over MCP.
 
